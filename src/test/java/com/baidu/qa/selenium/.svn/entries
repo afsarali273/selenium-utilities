@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/test/java/com/baidu/qa/selenium"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="WebDriverFactoryTest.java"
+   text-time="2012-01-29T05:41:27.353413Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="2f911642516329cc95552e0c332acf45"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="Selenium1Test.java"
+   text-time="2012-01-29T05:41:27.353413Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="781b71b66bb5ba5bcb7ebe40f53d4545"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="Selenium1ProxyTest.java"
+   text-time="2012-01-29T05:41:27.353413Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="ac2b8e8661461767400134fb7af7eac2"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="Selenium2ProxyTest.java"
+   text-time="2012-01-29T05:41:27.369038Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="6100ac9848af253d8d55938437b9f042"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="JavascriptExecutorProxyTest.java"
+   text-time="2012-01-29T05:41:27.369038Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="5e85af1f50eb1fb06061a9dd9aa2b009"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   name="html5"
+   kind="dir"/>
+</wc-entries>

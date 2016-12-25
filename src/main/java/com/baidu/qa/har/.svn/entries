@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa/har"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="HarCacheStatus.java"
+   text-time="2012-01-29T05:41:28.462774Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="bf0e741c6da0ae7adae7ea67a6ef22fd"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarPageTimings.java"
+   text-time="2012-01-29T05:41:28.462774Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="a033f32ce1b6e7c87f6d62673e4171a9"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarCookie.java"
+   text-time="2012-01-29T05:41:28.462774Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="3cc23834cc4805d5fc09814f3556ef6b"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarContent.java"
+   text-time="2012-01-29T05:41:28.462774Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="7bfe629317111782ddbfa041deba2391"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarTimings.java"
+   text-time="2012-01-29T05:41:28.462774Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="79b65252cfda581e42639d5365dbc353"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarPage.java"
+   text-time="2012-01-29T05:41:28.462774Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="b1cea54464a9d57ac76fb44230db9aed"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarUtil.java"
+   text-time="2012-01-29T05:41:28.462774Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="f8b7978ec4b7d6c2decfa57100170402"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="Har.java"
+   text-time="2012-01-29T05:41:28.462774Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="84ad6c8ae364f6556ae59d841c0731e8"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarPostData.java"
+   text-time="2012-01-29T05:41:28.478399Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="a5e02cac4b64dd4f16a2bc2c8834abaa"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarLog.java"
+   text-time="2012-01-29T05:41:28.478399Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="7d91cf653efbd2926eb6b174bcfe170a"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarNameVersion.java"
+   text-time="2012-01-29T05:41:28.478399Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="5130bb56edc0957aab24e74360f4a7e2"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarRequest.java"
+   text-time="2012-01-29T05:41:28.478399Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="49a4fc8585ac7aa4466dea2013405524"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarNameValuePair.java"
+   text-time="2012-01-29T05:41:28.478399Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="af48518469ce2e863a476ef96a5954b7"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarResponse.java"
+   text-time="2012-01-29T05:41:28.478399Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="1c40966582c2cab1d7dbc4b19ce711e8"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarPostDataParam.java"
+   text-time="2012-01-29T05:41:28.478399Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="d06dec16cf4114c8a727d0e0efa736c5"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="ISO8601DateFormatter.java"
+   text-time="2012-01-29T05:41:28.478399Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="60a3358b03c1b37dd5cc0035b904cc3d"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarEntry.java"
+   text-time="2012-01-29T05:41:28.494024Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="57a667b88860def3af84edbbc3c62ed4"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="HarCache.java"
+   text-time="2012-01-29T05:41:28.494024Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="4c2b6c1d5fb3cc29f28d668b6be9e34f"
+   last-author="xiaowu.liang"
+   kind="file"/>
+</wc-entries>

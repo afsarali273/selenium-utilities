@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="selenium-libV1" default="dist" basedir=".">
+
+	<!--config basic properties-->
+	<property name="src" value="src" />
+	<property name="build" value="build" />
+	<property name="lib" value="lib" />
+	<property name="dist" value="dist" />
+	<property name="classpath" location="${build}" />
+
+	<!--config runtime classpath-->
+		<path id="classpath.run">
+			<pathelement path="${classpath}" />
+			<fileset dir="${lib}">
+				<include name="*.jar" />
+			</fileset>
+		</path>
+	
+	<!--init task-->
+	<target name="init">
+		<tstamp />
+		<delete dir="${build}" />
+		<delete dir="${dist}" />		
+	</target>
+
+	<!--compile task-->
+	<target name="compile" depends="init">
+		<mkdir dir="${build}" />
+		<javac srcdir="${src}" destdir="${build}" includeantruntime="on">
+			<compilerarg line="-encoding utf-8" />
+			<classpath refid="classpath.run" />
+		</javac>
+	</target>
+
+	<!--dist jar-->
+	<target name="dist" depends="compile">
+		<mkdir dir="${dist}" />
+		<jar jarfile="${dist}/selenium-libV1.jar" basedir="${build}" />
+	</target>
+
+</project>

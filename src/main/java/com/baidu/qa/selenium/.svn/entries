@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa/selenium"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38959"
+   name="WebDriverFactory.java"
+   text-time="2013-05-30T08:41:33.593645Z"
+   committed-date="2013-05-30T08:44:05.247497Z"
+   checksum="ac835a50b77f24f4598dd034d17ebd8c"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="38959"/>
+<entry
+   committed-rev="38959"
+   name="Selenium1Proxy.java"
+   text-time="2013-05-30T08:42:48.027902Z"
+   committed-date="2013-05-30T08:44:05.247497Z"
+   checksum="50473ea3913b60ead770f8a3ee68d187"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="38959"/>
+<entry
+   committed-rev="39254"
+   name="UIWebElement.java"
+   text-time="2013-06-04T03:51:50.295374Z"
+   committed-date="2013-06-03T03:17:42.487854Z"
+   checksum="a955693a94b3cd94c454c8aff9536241"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="39254"/>
+<entry
+   committed-rev="38959"
+   name="Selenium2Proxy.java"
+   text-time="2013-05-30T08:42:29.829862Z"
+   committed-date="2013-05-30T08:44:05.247497Z"
+   checksum="379438f16d030731df665f49073aa729"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="38959"/>
+<entry
+   name="condition"
+   kind="dir"/>
+<entry
+   committed-rev="38959"
+   name="UIOperationEventListener.java"
+   text-time="2013-05-30T08:42:11.335804Z"
+   committed-date="2013-05-30T08:44:05.247497Z"
+   checksum="6d3580e9af697cfcdf87f0fbdc26abac"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="38959"/>
+<entry
+   committed-rev="38959"
+   name="UIWebDriver.java"
+   text-time="2013-05-30T08:35:45.357727Z"
+   committed-date="2013-05-30T08:44:05.247497Z"
+   checksum="cc37c0babbcf8476fd8ee8434be58f79"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="38959"/>
+<entry
+   committed-rev="39518"
+   name="JavascriptExecutorProxy.java"
+   text-time="2013-06-04T03:57:36.099153Z"
+   committed-date="2013-06-04T03:57:57.878181Z"
+   checksum="0cb7f1bb555a76ecdd9714028f48f90b"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="39518"/>
+<entry
+   name="html5"
+   kind="dir"/>
+<entry
+   name="support"
+   kind="dir"/>
+<entry
+   name="page"
+   kind="dir"/>
+</wc-entries>

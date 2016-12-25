@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/lib"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="jai_windows-i586.jar"
+   text-time="2004-09-17T03:32:06.000000Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="946e51e007c2597e1da4032100c0dfb1"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.623494Z"/>
+<entry
+   committed-rev="39107"
+   name="xmlbeans-2.3.0.jar"
+   text-time="2009-04-05T06:29:00.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="64b05e7adad68fa65d02a8b6daa64afb"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.846000Z"
+   revision="39107"/>
+<entry
+   committed-rev="38584"
+   name="jna.jar"
+   text-time="2012-01-29T05:41:25.197191Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="48f0e0081b45aed086faf7678242a4d4"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.847507Z"/>
+<entry
+   committed-rev="38584"
+   name="firebug-1.8.0.xpi"
+   text-time="2012-01-29T05:41:25.212816Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="f7abca962e4ed6934f0471cb9e342999"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.933512Z"/>
+<entry
+   committed-rev="38584"
+   name="firebug-1.7.2.xpi"
+   text-time="2012-01-29T05:41:25.228441Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="59d7e96174ae6bd5be795a4774b100f1"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.043575Z"/>
+<entry
+   committed-rev="38584"
+   name="guice-servlet-1.0.jar"
+   text-time="2012-01-29T05:41:25.244065Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="ad0ed418272e3b90056bca45d0089195"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.076577Z"/>
+<entry
+   committed-rev="38584"
+   name="jai_core.jar"
+   text-time="2004-09-17T03:43:44.000000Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="380f11cb2aab9910016320e88d0cbdd9"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.973514Z"/>
+<entry
+   committed-rev="38584"
+   name="spy-2.4.jar"
+   text-time="2012-01-29T05:41:25.259690Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="a1e5fa434659fd5a57e9ec8aad14fb9d"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.153581Z"/>
+<entry
+   committed-rev="38584"
+   name="dwr-3.0.0.109.dev.jar"
+   text-time="2012-01-29T05:41:25.275315Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="da86804ac434bb82d261a297f672edc3"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:50.015516Z"/>
+<entry
+   committed-rev="39107"
+   name="dom4j-1.6.1.jar"
+   text-time="2009-04-05T06:28:28.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="4d8f51d3fe3900efc6e395be48030d6d"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.877002Z"
+   revision="39107"/>
+<entry
+   committed-rev="38584"
+   name="AutoItX3.dll"
+   text-time="2012-01-29T05:41:25.275315Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="c5d7b42a2e53132385e2fbc7b0e9ba92"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.070577Z"/>
+<entry
+   committed-rev="38584"
+   name="ganymed-ssh2-build210.jar"
+   text-time="2012-01-29T05:41:25.290940Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="d898fe406a32b5c55283c719cb48328b"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.757501Z"/>
+<entry
+   committed-rev="39107"
+   name="stax-api-1.0.1.jar"
+   text-time="2011-02-23T04:31:46.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="7d436a53c64490bee564c576babb36b4"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.865002Z"
+   revision="39107"/>
+<entry
+   committed-rev="38584"
+   name="jcifs-1.3.17.jar"
+   text-time="2012-03-12T15:49:05.692296Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="eb407920042b1bf60468baf993b38825"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.787503Z"/>
+<entry
+   committed-rev="38584"
+   name="netExport-0.8b12.xpi"
+   text-time="2012-01-29T05:41:25.290940Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="27aafac3cdd20e39099ae2076545df94"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.597492Z"/>
+<entry
+   committed-rev="38584"
+   name="firebug-1.7X.0b2.xpi"
+   text-time="2012-01-29T05:41:25.306565Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="958dad6988ecd042cbbb2491c32a6ccb"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.679497Z"/>
+<entry
+   committed-rev="39107"
+   name="poi-excelant-3.9-20121203.jar"
+   text-time="2012-11-26T09:22:48.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="5220cd5ea0421634fc78d07ed234587b"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.871002Z"
+   revision="39107"/>
+<entry
+   committed-rev="38584"
+   name="netExport-0.8b17.xpi"
+   text-time="2012-01-29T05:41:25.306565Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="5cff72aca97074379f16ab88bda298f2"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.737500Z"/>
+<entry
+   committed-rev="38584"
+   name="javacsv.jar"
+   text-time="2012-01-29T05:41:25.337814Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="5007bc61bc8a0f1ea94aedc22677aab9"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.048575Z"/>
+<entry
+   committed-rev="38584"
+   name="junit-4.7.jar"
+   text-time="2012-01-29T05:41:25.462813Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="b03d4c6ff4cedcd731d6a6d1a3149f65"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.947512Z"/>
+<entry
+   committed-rev="38584"
+   name="flashselenium-java-client-extension-1.0.jar"
+   text-time="2012-01-29T05:41:26.478425Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="37b051ee560d33b672fff450eb1b9711"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.634494Z"/>
+<entry
+   committed-rev="38584"
+   name="jai_codec.jar"
+   text-time="2004-09-17T03:43:44.000000Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="6c072a648fb1c3fa3b79926745043ac4"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.699498Z"/>
+<entry
+   committed-rev="38584"
+   name="Snapsie.dll"
+   text-time="2012-01-29T05:41:26.494049Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="e829cf553ae6466458ce191c2ea840ad"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:50.059519Z"/>
+<entry
+   committed-rev="38584"
+   name="jackson-all-1.8.1.jar"
+   text-time="2012-01-29T05:41:26.478425Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="b538d961d204cac651e5d85e704d9c35"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:50.032517Z"/>
+<entry
+   committed-rev="38584"
+   name="log4j-1.2.16.jar"
+   text-time="2012-01-29T05:41:26.509674Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="4a11e911b2403bb6c6cf5e746497fe7a"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:50.011516Z"/>
+<entry
+   committed-rev="38584"
+   name="sikuli-script.jar"
+   text-time="2012-01-29T05:41:26.837795Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="524028dedcdcdec7343e26563206e2e5"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.856507Z"/>
+<entry
+   committed-rev="39107"
+   name="poi-examples-3.9-20121203.jar"
+   text-time="2012-11-26T09:22:44.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="fd1998c953bda968a6bc8d4065c02a8e"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.767996Z"
+   revision="39107"/>
+<entry
+   committed-rev="39107"
+   name="poi-ooxml-schemas-3.9-20121203.jar"
+   text-time="2012-11-26T09:22:48.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="96dcd436f816c343efbe084d5d0a0882"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.836000Z"
+   revision="39107"/>
+<entry
+   committed-rev="39226"
+   name="mysql-connector-java-5.1.22-bin.jar"
+   text-time="2012-11-23T09:46:32.175762Z"
+   committed-date="2013-06-03T01:58:37.704330Z"
+   checksum="2c069d69928c75cd28172fd33772a1db"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-06-03T01:58:36.648683Z"
+   revision="39226"/>
+<entry
+   committed-rev="38584"
+   name="spymemcached-2.7.jar"
+   text-time="2012-01-29T05:41:25.197191Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="e537e1d05f1269f6af2ea06cd706565f"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.968514Z"/>
+<entry
+   committed-rev="38584"
+   name="morphia-1.00-SNAPSHOT.jar"
+   text-time="2012-01-29T05:41:25.197191Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="fae13da17686b5c2aa33669986efd1ee"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.952513Z"/>
+<entry
+   committed-rev="38584"
+   name="firebug-1.6.xpi"
+   text-time="2012-01-29T05:41:25.212816Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="f217a22b288c8572cfd3909e9f4e42f3"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.896509Z"/>
+<entry
+   committed-rev="38584"
+   name="guava-r08.jar"
+   text-time="2012-01-29T05:41:25.244065Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="a8278857d5532caf5846e9fa94aed00c"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.865508Z"/>
+<entry
+   committed-rev="38584"
+   name="yslow-3.0.3-fx.xpi"
+   text-time="2012-01-29T05:41:25.244065Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="3d6a37080d8d6fc4b231a6b532ab0bae"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.010573Z"/>
+<entry
+   committed-rev="38584"
+   name="jconfig.jar"
+   text-time="2012-01-29T09:06:49.023819Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="89098c94417c8f2ba068e07e3f7f2187"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:50.080520Z"/>
+<entry
+   committed-rev="39107"
+   name="poi-ooxml-3.9-20121203.jar"
+   text-time="2012-11-26T09:22:44.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="a03b94af357fdc8b0619986188f292bd"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.820999Z"
+   revision="39107"/>
+<entry
+   committed-rev="38584"
+   name="mongo-2.6.3.jar"
+   text-time="2012-01-29T05:41:25.290940Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="9769e4f09430e34b164b1db78884fc38"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.174582Z"/>
+<entry
+   committed-rev="39107"
+   name="poi-3.9-20121203.jar"
+   text-time="2012-11-26T09:22:44.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="e614ff86318ad24940219fc045586fcc"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.883003Z"
+   revision="39107"/>
+<entry
+   committed-rev="38584"
+   name="common-0.2.9.jar"
+   text-time="2012-01-29T05:41:25.337814Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="e949d4fb5c5665d378550a34c69d49e0"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:49.606493Z"/>
+<entry
+   committed-rev="38584"
+   name="selenium-server-standalone-2.33.0.jar"
+   text-time="2013-05-24T04:08:57.027463Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="9e3a37b10af45da5a846e402433b11eb"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.140581Z"/>
+<entry
+   committed-rev="38584"
+   name="chromedriver.exe"
+   text-time="2013-04-19T11:05:40.000000Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="69ac3e1debb79da1b4df667fa66b472c"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-29T06:14:51.127580Z"/>
+<entry
+   committed-rev="39107"
+   name="poi-scratchpad-3.9-20121203.jar"
+   text-time="2012-11-26T09:22:44.000000Z"
+   committed-date="2013-05-31T05:48:10.198251Z"
+   checksum="4c109f769273fd94c06ac77e7c0b68dd"
+   last-author="xiaowu.liang"
+   kind="file"
+   prop-time="2013-05-31T05:47:34.889003Z"
+   revision="39107"/>
+</wc-entries>

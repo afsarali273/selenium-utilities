@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   name="jautoit"
+   kind="dir"/>
+<entry
+   name="selenium"
+   kind="dir"/>
+<entry
+   name="os"
+   kind="dir"/>
+<entry
+   name="common"
+   kind="dir"/>
+<entry
+   name="camstudio"
+   kind="dir"/>
+<entry
+   name="javacsv"
+   kind="dir"/>
+<entry
+   name="ssh"
+   kind="dir"/>
+<entry
+   name="morphia"
+   kind="dir"/>
+<entry
+   name="sikuli"
+   kind="dir"/>
+<entry
+   name="javaexcel"
+   kind="dir"/>
+<entry
+   name="snapsie"
+   kind="dir"/>
+<entry
+   name="mysql"
+   kind="dir"/>
+<entry
+   name="memcached"
+   kind="dir"/>
+<entry
+   name="imagecapture"
+   kind="dir"/>
+<entry
+   name="httpwatch"
+   kind="dir"/>
+<entry
+   name="mybatis"
+   kind="dir"/>
+<entry
+   name="fiddler"
+   kind="dir"/>
+<entry
+   name="dynatrace"
+   kind="dir"/>
+<entry
+   name="har"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

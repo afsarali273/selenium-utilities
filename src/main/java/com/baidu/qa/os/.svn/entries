@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa/os"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="IMonitorService.java"
+   text-time="2012-01-29T05:41:27.665909Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="65ee0b574737e7a2e5e421534dc50ed6"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="Bytes.java"
+   text-time="2012-01-29T05:41:27.665909Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="0e7f55bc2261a482144dc4c32912ed85"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="MonitorInfoBean.java"
+   text-time="2012-01-29T05:41:27.665909Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="941e4f4da5e5d7e37ddf5a608c001eb6"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="MonitorServiceImpl.java"
+   text-time="2013-05-27T02:48:31.374456Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="8b43b618257c64465857dbd40b7accc7"
+   last-author="xiaowu.liang"
+   kind="file"/>
+</wc-entries>

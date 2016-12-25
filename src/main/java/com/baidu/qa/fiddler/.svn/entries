@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa/fiddler"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="FiddlerClient.java"
+   text-time="2012-01-29T05:41:28.322151Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="c9da9c9ea082e68f0c4097941c705945"
+   last-author="xiaowu.liang"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa/selenium/support"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="PageObjectAutoGenerator.java"
+   text-time="2013-05-28T10:48:42.774543Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="9a9e702ba29c3dc999e34442e004b48a"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="PageObjectJavaField.java"
+   text-time="2013-05-28T10:48:25.457552Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="c31de6a14a077cd92327bbd173b2ace0"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="PageObjectJavaFileBuilder.java"
+   text-time="2013-05-28T10:48:42.824545Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="b9b942e0f9f07068ce0c79c5787a5187"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   name="ui"
+   kind="dir"/>
+</wc-entries>

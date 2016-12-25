@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa/sikuli"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="SikuliClient.java"
+   text-time="2012-01-29T05:41:28.197153Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="aa039a267d4682b93d400cd3e8748493"
+   last-author="xiaowu.liang"
+   kind="file"/>
+</wc-entries>

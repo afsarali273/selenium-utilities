@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38583"
+   name=""
+   committed-date="2013-05-29T06:12:40.721837Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1"
+   last-author="xiaowu.liang"
+   kind="dir"
+   uuid="808c7d77-0226-461f-a56f-82ef23320528"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38583"/>
+<entry
+   committed-rev="39226"
+   name=".classpath"
+   text-time="2013-06-02T15:32:18.698062Z"
+   committed-date="2013-06-03T01:58:37.704330Z"
+   checksum="9db9e265665faa26811f17e32125d1bc"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="39226"/>
+<entry
+   name="log"
+   kind="dir"/>
+<entry
+   committed-rev="38584"
+   name=".project"
+   text-time="2012-01-29T05:41:28.822145Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="b8b94c25e24b11fc98aa08bee4b0f395"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="38584"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="resource"
+   kind="dir"
+   schedule="add"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="third_party"
+   kind="dir"/>
+<entry
+   committed-rev="38584"
+   name="log4j.properties"
+   text-time="2013-05-27T07:11:50.231480Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="3abb84d9899aaadbcd38ef60b57e13d9"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="build.xml"
+   text-time="2012-01-29T05:41:28.822145Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="2488fcf7f036c337d961943f11011243"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="38584"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+</wc-entries>

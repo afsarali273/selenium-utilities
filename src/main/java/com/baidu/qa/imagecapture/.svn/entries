@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa/imagecapture"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="39226"
+   name="BrowserSpy.java"
+   text-time="2013-06-02T15:18:36.317025Z"
+   committed-date="2013-06-03T01:58:37.704330Z"
+   checksum="a949bf83b33b140ae8d33ff1b45e4e69"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="39226"/>
+</wc-entries>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38584"
+   name=""
+   committed-date="2013-05-29T06:16:11.329395Z"
+   url="http://dev.dajie-inc.com/svn/dj/trunk/qa/duit/selenium-libV1/src/main/java/com/baidu/qa/util"
+   last-author="xiaowu.liang"
+   kind="dir"
+   repos="http://dev.dajie-inc.com/svn/dj"
+   revision="38584"/>
+<entry
+   committed-rev="38584"
+   name="PropertiesReader.java"
+   text-time="2012-01-29T05:41:28.556523Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="ebead2a794d4cf5967f76defe479aac7"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="ZipUtil.java"
+   text-time="2012-01-29T05:41:28.556523Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="fa3885fb1b139b2d0b4c7d6a87c362ac"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="EnumUtil.java"
+   text-time="2012-01-29T05:41:28.556523Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="cc47e3cac93a83da8b0a5a3270841912"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="UIWebElementUtil.java"
+   text-time="2012-01-29T05:41:28.556523Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="e47784af5b28f314a32001db3a08c848"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="StringUtil.java"
+   text-time="2012-01-29T05:41:28.556523Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="2da1729103e8602e93b9502d0a456180"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="WebDriverUtil.java"
+   text-time="2012-01-29T05:41:28.556523Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="842cc79cc15c863d23cbe2eba4379996"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="ReflectionUtil.java"
+   text-time="2013-05-28T11:27:02.326069Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="26e39ce1aafc665f6112e5736433c9a4"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="LocalFileUtil.java"
+   text-time="2012-04-27T05:15:27.476608Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="5148c706ba8a23900bb78f6634482711"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="CollectionUtil.java"
+   text-time="2013-05-28T11:26:29.656201Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="61acd118875bcbfd8cea85bce0311f65"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="RemoteFileUtil.java"
+   text-time="2012-04-27T05:16:06.476358Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="3bbe56dc2565da77ec962df694ef0e6f"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="DateUtil.java"
+   text-time="2012-01-29T05:41:28.572148Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="77f4f0025f7d110897bbb99c01368530"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="38584"
+   name="ProcessUtil.java"
+   text-time="2012-01-29T05:41:28.572148Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="9f0b6419af67b380a57303b3d71d910b"
+   last-author="xiaowu.liang"
+   kind="file"/>
+<entry
+   committed-rev="39226"
+   name="UTF8Decoder.java"
+   text-time="2013-06-02T14:12:36.360528Z"
+   committed-date="2013-06-03T01:58:37.704330Z"
+   checksum="81c411b1d9b8f9e69e44367550e76cc8"
+   last-author="xiaowu.liang"
+   kind="file"
+   revision="39226"/>
+<entry
+   committed-rev="38584"
+   name="FileUtil.java"
+   text-time="2012-01-29T05:41:28.572148Z"
+   committed-date="2013-05-29T06:16:11.329395Z"
+   checksum="dbe38577bd645a680baecc1abf567ae4"
+   last-author="xiaowu.liang"
+   kind="file"/>
+</wc-entries>

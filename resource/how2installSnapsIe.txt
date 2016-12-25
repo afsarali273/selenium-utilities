@@ -1,0 +1,19 @@
+snapsIE
+NOTE: snapsIE is no longer being actively developed here. For an implementation that has carried on the torch, see Kevin Menard's snapsIE fork on github.
+
+snapsIE is a COM object that implements screen capture for Internet Explorer browser objects. snapsIE can be scripted with Jscript (javascript). It is intended to be used with the Selenium web test framework to capture screenshots of running tests. I created it because I saw a need for Selenium, and was tired of everyone and their brother trying to sell screenshot software for $20 when it should be free.
+
+The latest version is snapsie-0.2.
+
+The current release distribution contains a single DLL, an accompanying javascript library, and several HTML test files. Follow these steps to install and use:
+
+Install the VC++ 2005 SP1 Redistributable Pakage from Microsoft's download site. You can skip this step if you have Visual Studio 2005 SP1 installed on your system. 
+Unzip snapsie-x.x.x.tar.gz. It contains a DLL, a javascript file, and a test folder containing some HTML files. 
+Copy Snapsie.dll to a convenient location, maybe under C:\WINDOWS. 
+Register the DLL. Open a command prompt to where you copied the file, and run regsvr32 Snapsie.dll . 
+The usual security restrictions for "ActiveX" content apply when using snapsIE in webpages. Depending on your settings, expect to enable privileged access when prompted upon viewing pages that use snapsIE. 
+For example usage, check testQuirks.html. Here's the saved PNG output for it. snapsIE also now supports capturing framed content! For an example of that, see testFramedQuirks.html.
+
+By the way, feel free to use "snapsIE" and "Snapsie" interchangably. :)
+
+- Haw-Bin Chai
