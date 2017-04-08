@@ -40,44 +40,35 @@ public class demo {
 	static HSSFCell cell;
 	static HSSFRow row;
 	static XmlTest mainTest;
-	
+
 	public static void main(String[] args) throws Exception {
-		
-		//ExcelUtils.setExcelFile("E:\\EclipseTests\\DemoTests\\src\\main\\java\\testdata\\testdata.xls", "suite");
-		FileInputStream ExcelFile = new FileInputStream("E:\\EclipseTests\\DemoTests\\src\\main\\java\\testdata\\testdata.xls");
-		wb=new HSSFWorkbook(ExcelFile);
-		sheet=wb.getSheet("suite");
-		int ic=sheet.getLastRowNum();
-		
+
+		ExcelUtils.setExcelFile("E:\\EclipseTests\\DemoTests\\src\\main\\java\\testdata\\testdata.xls", "suite");
+		int ic=ExcelUtils.getRowUsed();
 		XmlSuite mainsuite = new XmlSuite();
 		mainsuite.setName("SmokeTest Suite");
 		mainsuite.setFileName("SmokeTest.xml");
 		mainsuite.setParallel("false");
-		
+
 		for(int rowIndex=1;rowIndex<=ic;rowIndex++){
-			
-			//String tcname=sheet.getRow(rowIndex).getCell(0).getStringCellValue();
-			String run=sheet.getRow(rowIndex).getCell(1).getStringCellValue();
-			
+
+			ExcelUtils.setExcelFile("E:\\EclipseTests\\DemoTests\\src\\main\\java\\testdata\\testdata.xls", "suite");
+			String run=ExcelUtils.getCellData(rowIndex, 1);
+
 			if(run.contentEquals("Y")){
-				
-				String tcname=sheet.getRow(rowIndex).getCell(0).getStringCellValue();
+
+				String tcname=ExcelUtils.getCellData(rowIndex, 0);
 				System.out.println("tc name : "+tcname+"  : "+run ); 
-				
+
 				XmlTest xmlTest=getTest(tcname, mainsuite);
-				
-				//mainTest.setXmlClasses(classes);
-				//System.out.println("Returned value is : "+demo1.methods(tcname));
 			}
 		}
-		
+
 		TestNG runner=new TestNG();
 		List<XmlSuite>suites=new ArrayList<XmlSuite>();
 		suites.add(mainsuite);
 		runner.setXmlSuites(suites);
-		runner.run();
-
-		
+		runner.run();		
 	}
 	@SuppressWarnings("null")
 	public static XmlTest getTest(String TCName,XmlSuite mainsuite) throws Exception {
@@ -88,7 +79,7 @@ public class demo {
 		methodname=null;
 
 		switch (TCName) {
-		
+
 		case "Class1":	
 			classlist = new XmlClass(Class1.class);
 			//XmlTest mainTest;
@@ -97,45 +88,34 @@ public class demo {
 			mainTest.setPreserveOrder("True");
 			methodname=methods(TCName);	
 			for(String a: methodname){
-				//xmlInclude.add(new XmlInclude(a));
-				System.out.println("method : "+a);
 				classlist.getIncludedMethods().add(new XmlInclude(a));
-				//classlist.setIncludedMethods(Arrays.asList(new XmlInclude[] { new XmlInclude(a)}));
-				
+
 			}		
 			break;
-			
+
 		case "Class2":
-			
+
 			classlist = new XmlClass(Class2.class);
-			
 			mainTest = new XmlTest(mainsuite);
 			mainTest.setName(TCName);
 			mainTest.setPreserveOrder("True");
 			methodname=methods(TCName);
-			
+
 			for(String a: methodname){
-				//xmlInclude.add(new XmlInclude(a));
-				//classlist.setIncludedMethods(Arrays.asList(new XmlInclude[] { new XmlInclude(a)}));
 				classlist.getIncludedMethods().add(new XmlInclude(a));
 			}
-			//classlist.getIncludedMethods().add(xmlInclude);
-			//classlist.setIncludedMethods(xmlInclude);
 			break;
-			
+
 		case "Class3":
 			classlist = new XmlClass(Class3.class);
 			mainTest = new XmlTest(mainsuite);
 			mainTest.setName(TCName);
 			mainTest.setPreserveOrder("True");
 			methodname=methods(TCName);
-			
+
 			for(String a: methodname){
-				//xmlInclude.add(new XmlInclude(a));
-				//classlist.setIncludedMethods(Arrays.asList(new XmlInclude[] { new XmlInclude(a)}));
 				classlist.getIncludedMethods().add(new XmlInclude(a));
 			}
-			//classlist.setIncludedMethods(xmlInclude);
 			break;
 		case "Class4":
 			classlist = new XmlClass(Class4.class);
@@ -143,12 +123,10 @@ public class demo {
 			mainTest.setName(TCName);
 			mainTest.setPreserveOrder("True");
 			methodname=methods(TCName);
-			
+
 			for(String a: methodname){
-				//classlist.setIncludedMethods(Arrays.asList(new XmlInclude[] { new XmlInclude(a)}));
 				classlist.getIncludedMethods().add(new XmlInclude(a));
 			}
-			//classlist.setIncludedMethods(xmlInclude);
 			break;
 		case "Class5":
 			classlist = new XmlClass(Class5.class);
@@ -156,13 +134,10 @@ public class demo {
 			mainTest.setName(TCName);
 			mainTest.setPreserveOrder("True");
 			methodname=methods(TCName);
-			
+
 			for(String a: methodname){
-				
-			//classlist.setIncludedMethods(Arrays.asList(new XmlInclude[] { new XmlInclude(a)}));
-			classlist.getIncludedMethods().add(new XmlInclude(a));
+				classlist.getIncludedMethods().add(new XmlInclude(a));
 			}
-			//classlist.setIncludedMethods(xmlInclude);
 			break;
 		}
 
@@ -171,26 +146,19 @@ public class demo {
 		mainTest.setXmlClasses(class_list);
 		return mainTest;
 	}
-	
+
 	public static List<String>methods(String clasName) throws Exception{
 
-		FileInputStream ExcelFile = new FileInputStream("E:\\EclipseTests\\DemoTests\\src\\main\\java\\testdata\\testdata.xls");
-		wb=new HSSFWorkbook(ExcelFile);
-		sheet=wb.getSheet("test");
+		ExcelUtils.setExcelFile("E:\\EclipseTests\\DemoTests\\src\\main\\java\\testdata\\testdata.xls", "test");
+		int row=ExcelUtils.getRowUsed();
 		List<String>method=new ArrayList<String>();
-		for (int rowIndex = 1; rowIndex <= sheet.getLastRowNum(); rowIndex++) {
-			row = sheet.getRow(rowIndex);
-			if (row != null) {	
-				HSSFCell cell=sheet.getRow(rowIndex).getCell(0);
-				if(cell.getStringCellValue().equalsIgnoreCase(clasName) && sheet.getRow(rowIndex).getCell(2).getStringCellValue().contentEquals("Y")){
-
-					String value=sheet.getRow(rowIndex).getCell(1).getStringCellValue();
-					 //System.out.println( value);
-					method.add(value);
-				}
+		for (int rowIndex = 1; rowIndex <= row; rowIndex++) {	
+			if(ExcelUtils.getCellData(rowIndex, 0).equalsIgnoreCase(clasName) && ExcelUtils.getCellData(rowIndex, 2).contentEquals("Y")){
+				String value=ExcelUtils.getCellData(rowIndex, 1);
+				method.add(value);
 			}
 		}
-		
+
 		return method;
 	}
 
